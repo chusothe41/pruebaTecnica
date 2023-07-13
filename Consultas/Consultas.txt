@@ -1,0 +1,31 @@
+1.	Obtener la lista de los productos no descatalogados incluyendo el nombre de la categoría ordenado por nombre de producto.
+SELECT *
+FROM Products
+INNER JOIN Categories ON Categories.CategoryID = Products.CategoryID
+WHERE Products.Discontinued = 0
+ORDER BY Products.ProductName
+
+2.	Mostrar el nombre de los clientes de Nancy Davolio.
+SELECT DISTINCT c.ContactName
+FROM Customers c
+JOIN Orders o ON o.CustomerID = c.CustomerID
+JOIN Employees e ON e.EmployeeID = o.EmployeeID
+WHERE e.LastName = 'Davolio' AND e.FirstName = 'Nancy'
+
+3.	Mostrar el total facturado por año del empleado Steven Buchanan.
+SELECT strftime('%Y', o.OrderDate) as YearGroup, od.ProductID, SUM(od.UnitPrice * od.Quantity) AS TotalPrice, SUM((od.UnitPrice * od.Quantity) * (1 - od.Discount)) AS TotalPriceDisc, od.Discount
+FROM Orders o
+JOIN Employees e ON e.EmployeeID = o.EmployeeID
+JOIN 'Order Details' od ON od.OrderID = o.OrderId
+WHERE e.FirstName = 'Steven' AND e.LastName = 'Buchanan'
+GROUP BY YearGroup
+
+4.	Mostrar el nombre de los empleados que dependan directa o indirectamente de Andrew Fuller.
+SELECT FirstName || ' ' || LastName AS NobreEmpleado
+FROM Employees
+WHERE ReportsTo = (
+	SELECT EmployeeID
+	FROM Employees
+	WHERE FirstName = 'Andrew' AND LastName = 'Fuller'
+)
+

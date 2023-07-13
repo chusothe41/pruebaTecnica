@@ -1,0 +1,15 @@
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\bin\Debug\net6.0\Ramdom.exe
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\bin\Debug\net6.0\Ramdom.deps.json
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\bin\Debug\net6.0\Ramdom.runtimeconfig.json
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\bin\Debug\net6.0\Ramdom.dll
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\bin\Debug\net6.0\Ramdom.pdb
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\obj\Debug\net6.0\Ramdom.csproj.AssemblyReference.cache
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\obj\Debug\net6.0\Ramdom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\obj\Debug\net6.0\Ramdom.AssemblyInfoInputs.cache
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\obj\Debug\net6.0\Ramdom.AssemblyInfo.cs
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\obj\Debug\net6.0\Ramdom.csproj.CoreCompileInputs.cache
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\obj\Debug\net6.0\Ramdom.dll
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\obj\Debug\net6.0\refint\Ramdom.dll
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\obj\Debug\net6.0\Ramdom.pdb
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\obj\Debug\net6.0\Ramdom.genruntimeconfig.cache
+C:\Users\JesúsAller\Desktop\Ramdom\Ramdom\obj\Debug\net6.0\ref\Ramdom.dll

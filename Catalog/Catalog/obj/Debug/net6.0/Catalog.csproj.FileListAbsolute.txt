@@ -1,0 +1,15 @@
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\bin\Debug\net6.0\Catalog.exe
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\bin\Debug\net6.0\Catalog.deps.json
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\bin\Debug\net6.0\Catalog.runtimeconfig.json
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\bin\Debug\net6.0\Catalog.dll
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\bin\Debug\net6.0\Catalog.pdb
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\obj\Debug\net6.0\Catalog.csproj.AssemblyReference.cache
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\obj\Debug\net6.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfoInputs.cache
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfo.cs
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\obj\Debug\net6.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\obj\Debug\net6.0\Catalog.dll
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\obj\Debug\net6.0\refint\Catalog.dll
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\obj\Debug\net6.0\Catalog.pdb
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\obj\Debug\net6.0\Catalog.genruntimeconfig.cache
+C:\Users\JesúsAller\Desktop\Catalog\Catalog\obj\Debug\net6.0\ref\Catalog.dll
